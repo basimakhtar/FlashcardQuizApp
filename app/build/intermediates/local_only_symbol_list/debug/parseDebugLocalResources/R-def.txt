@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id feedbackText
+id hackButton
+id main
+id mythButton
+id nextButton
+id questionText
+id resultMessage
+id reviewButton
+id reviewText
+id scoreText
+id startButton
+id textView
+id textView2
+layout activity_main
+layout activity_quiz
+layout activity_score
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string correct
+string great_job
+string keep_practising
+string review_text
+string score_text
+string wrong
+style Base.Theme.FlashcardQuizApp1
+style Theme.FlashcardQuizApp1
+xml backup_rules
+xml data_extraction_rules

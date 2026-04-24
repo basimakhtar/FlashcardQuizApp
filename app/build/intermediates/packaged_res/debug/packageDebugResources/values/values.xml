@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">FlashcardQuizApp1</string>
+    <string name="correct">Correct!</string>
+    <string name="great_job">Great job!</string>
+    <string name="keep_practising">Keep practising!</string>
+    <string name="review_text">
+Review:
+
+1. Rice fixes water damage - Myth
+2. Drinking water improves focus - Hack
+3. Cracking knuckles causes arthritis - Myth
+4. Dark mode saves battery - Hack
+</string>
+    <string name="score_text">Your Score: %1$d / %2$d</string>
+    <string name="wrong">Wrong!</string>
+    <style name="Base.Theme.FlashcardQuizApp1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FlashcardQuizApp1" parent="Base.Theme.FlashcardQuizApp1"/>
+</resources>
