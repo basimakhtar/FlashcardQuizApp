@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FlashcardQuizApp1</string>
+    <string name="wrong">Wrong!</string>
+    <string name="correct">Correct!</string>
+    <string name="review_text">
+Review:
+
+1. Rice fixes water damage - Myth
+2. Drinking water improves focus - Hack
+3. Cracking knuckles causes arthritis - Myth
+4. Dark mode saves battery - Hack
+</string>
+    <string name="keep_practising">Keep practising!</string>
+    <string name="great_job">Great job!</string>
+    <string name="score_text">Your Score: %1$d / %2$d</string>
+</resources>
