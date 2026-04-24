@@ -1,4 +1,4 @@
-name: Flashcard Quiz App - Android Build
+name: Flashcard Quiz App
 
 on:
   push:
