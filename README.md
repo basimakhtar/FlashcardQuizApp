@@ -18,4 +18,5 @@ Screenshots:
 ![main2](screenshots/main2.png)
 ![main3](screenshots/main3.png)
 
-Here's a link to a video demonstrating how the app works: Re
+Here's a link to a video demonstrating how the app works:
+
