@@ -26,7 +26,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79d5e178-a4ed-4b4a-bc9d-dd7b0e2d8705" name="Changes" comment="Initial working project upload" />
+    <list default="true" id="79d5e178-a4ed-4b4a-bc9d-dd7b0e2d8705" name="Changes" comment="Initial working project upload">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,6 +150,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lab_services_student\AndroidStudioProjects\FlashcardQuizApp1\" />
+    </key>
     <key name="android.template.-839006236">
       <recent name="com.example.flashcardquizapp1" />
     </key>
@@ -312,7 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777047373831</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Initial working project upload">
+      <option name="closed" value="true" />
+      <created>1777048025282</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1777048025282</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial working project upload">
+      <option name="closed" value="true" />
+      <created>1777048294140</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1777048294140</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

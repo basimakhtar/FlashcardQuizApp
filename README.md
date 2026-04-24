@@ -20,6 +20,8 @@ Technologies Used
 - GitHub Actions (CI Build)
 
 Screenshots
+![main](screenshots/main.png)
+![main2](screenshots/main2.png)
+![main3](screenshots/main3.png)
 
-## 🎥 Demo Video
-(Add YouTube unlisted link here)
+Here's a link to a video demonstrating how the app works: 
